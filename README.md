@@ -6,6 +6,8 @@ Figma Admin Dashboard Template is a free and open-source design kit built in Fig
 
 Features include UI components, such as buttons, badges, navbars using Figma variants, auto-layout, style guide based on the utility classes from Tailwind CSS, and even mobile screen examples.
 
+[Click here to preview in Figma](https://www.figma.com/file/302GJH45U1PrjA0ifcVVl1/Figma-Admin-Dashboard-(Free-Version)-v1.0.0?node-id=15%3A858).
+
 ## Download
 
 You can download the [Figma Admin Dashboard](https://themesberg.com/product/figma/admin-dashboard-template) files by creating an account for free at [Themesberg.com](https://themesberg.com).
