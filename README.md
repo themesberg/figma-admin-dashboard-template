@@ -1,3 +1,6 @@
+# [🔥 Black Friday 2022 - Get Premium Figma Templates for 90% Off](https://themesberg.com/black-friday)
+[![Themesberg Black Friday 2022](https://themesberg.com/img/campaigns/black-friday/og-image.png)](https://themesberg.com/black-friday)
+
 # Figma Admin Dashboard Template
 
 [![Figma Admin Dashboard Template](https://themesberg.s3.us-east-2.amazonaws.com/public/products/figma-admin-dashboard-template/figma-admin-dashboard-template-preview.png)](https://themesberg.com/product/figma/admin-dashboard-template)
